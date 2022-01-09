@@ -1,0 +1,102 @@
+{
+	"channel_name": "locale",
+	"plot": "Ingordi Channel, è un Community Channel di Kodi On Demand, gestito da italiani.",
+	"fanart": "/Immagini/ingordi_fanart.jpg",
+	"thumbnail": "/Immagini/ingordi_thumbnail.jpg",
+	"menu": [
+		{
+			"title": "Live TV",
+			"link": "/canali.json",
+			"thumbnail": "/Immagini/canali.jpg"
+		},
+		{
+			"title": "Film",
+			"link": "/FILM/film.json",
+			"thumbnail": "/Immagini/Film.jpg",
+			"level2": {
+				"search": "",
+				"genre": "Genere",
+				"altro": {
+					"title": "Monografie",
+					"description": "/FILM/description_monografie.json"
+				},
+				"actors": "Attori",
+				"director": "Regista",
+				"year": "Anno",
+				"culto": {
+					"title": "Registi di Culto",
+					"description": "/FILM/description_culto.json"
+				},
+				"saga": {
+					"title": "Saghe",
+					"description": "/FILM/description_film.json"
+				},
+				"prize": {
+					"title": "Oscar",
+					"description": "/FILM/description_oscar.json"
+				}
+			}
+		},
+		{
+			"title": "Serie TV",
+			"link": "/SERIE-TV/serietv.json",
+			"thumbnail": "/Immagini/SerieTV.jpg",
+			"level2": {
+				"search": "",
+				"genre": "Genere",
+				"actors": "Attori",
+				"director": "Regista",
+				"year": "Anno",
+				"saga": {
+					"title": "Saghe",
+					"description": "/SERIE-TV/description.json"
+				}
+			}
+		},
+		{
+			"title": "Animazione - Anime",
+			"link": "ANIMAZIONE/animazione.json",
+			"thumbnail": "/Immagini/animazione.jpg"
+		},
+		{
+			"title": "Documentari",
+			"link": "/DOCUMENTARI/documentari.json",
+			"thumbnail": "/Immagini/DOCUMENTARI.jpg",
+			"level2": {
+				"search": "",
+				"year": "Anno",
+				"persone": {
+					"title": "Personaggi",
+					"description": "/DOCUMENTARI/description_pers.json"
+				},
+				"casa": {
+					"title": "Saghe",
+					"description": "/DOCUMENTARI/description_saghe.json"
+				}
+			}
+		},
+		{
+			"title": "Teatro",
+			"link": "/TEATRO/teatro.json",
+			"thumbnail": "/Immagini/Teatro.png",
+			"level2": {
+				"search": "",
+				"year": "Anno",
+				"actors": {
+					"title": "Attori",
+					"description": "/TEATRO/description.json"
+				}
+			}
+		},
+		{
+			"title": "Il Baule dell'Ingordo",
+			"link": "/baule/Il_Baule_dell_ingordo.json",
+			"thumbnail": "/Immagini/Baule.jpg"
+		},
+		{
+			"title": "",
+			"link": "",
+			"thumbnail": "/Immagini/Vuto.png"
+		}
+	]
+}
