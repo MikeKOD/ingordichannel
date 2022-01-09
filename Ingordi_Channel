@@ -1,62 +1,107 @@
 {
-  "channel_name": "INGORDI CHANNEL",
-  "fanart":"/Immagini/Ingordi.jpg",
-  "thumbnail": "/Immagini/Ingordi.jpg",
-  "menu": [
-    {
-      "title": "Live TV",
-      "link": "/canali.json",
-      "thumbnail": "/Immagini/canali.jpg"
-    },
-    {
-      "title": "Film",
-      "link": "/FILM/film.json",
-      "thumbnail": "/Immagini/Film.jpg"
-    },
-    {
-      "title": "Serie TV",
-      "link": "/SERIE-TV/SerieTV.json",
-      "thumbnail": "/Immagini/SerieTV.jpg"
-    },
-    {
-      "title": "Animazione / Anime",
-      "link": "/ANIMAZIONE/animazione.json",
-      "thumbnail": "/Immagini/animazione.jpg"
-    },
-    {
-      "title": "Documentari - in sistemazione",
-      "link": "/DOCUMENTARI/documentari.json",
-      "thumbnail": "/Immagini/DOCUMENTARI.jpg"
-    },
-    {
-      "title": "Teatro - in sistemazione",
-      "link": "/TEATRO/Teatro.json",
-      "thumbnail": "/Immagini/Teatro.png"
-    },
-    {
-      "title": "Registi di culto",
-      "link": "/REGISTI_DI_CULTO/registi.json",
-      "thumbnail": "/Immagini/registi.jpg"
-    },
-    {
-      "title": "Il Baule dell'Ingordo",
-      "link": "/baule/Il_Baule_dell_ingordo.json",
-      "thumbnail": "/Immagini/Baule.jpg"
-    },
-    {
-      "title": "",    
-      "link": "",
-      "thumbnail": "/Immagini/Vuto.png"
-    },
-    {
-      "title": "PROVE Script",    
-      "link": "/PROVE/mike.json",
-      "thumbnail": "/Immagini/Prove.png"
-    },
-    {
-      "title": "Appena aggiunti",    
-      "link": "http://51.77.159.233/ingordichannel.json",
-      "thumbnail": "/Immagini/Prove.png"
-    }
-  ]
+	"channel_name": "INGORDI CHANNEL 2.0",
+	"plot": "Ingordi Channel, è un Community Channel di Kodi On Demand, gestito da italiani.",
+	"fanart": "/Immagini/ingordi_fanart.jpg",
+	"thumbnail": "/Immagini/ingordi_thumbnail.jpg",
+	"menu": [
+		{
+			"title": "Live TV",
+			"link": "/canali.json",
+			"thumbnail": "/Immagini/canali.jpg"
+		},
+		{
+			"title": "Film",
+			"link": "/FILM/film.json",
+			"thumbnail": "/Immagini/Film.jpg",
+			"level2": {
+				"search": "",
+				"genre": "Genere",
+				"altro": {
+					"title": "Monografie",
+					"description": "/FILM/description_monografie.json"
+				},
+				"actors": "Attori",
+				"director": "Regista",
+				"year": "Anno",
+				"culto": {
+					"title": "Registi di Culto",
+					"description": "/FILM/description_culto.json"
+				},
+				"saga": {
+					"title": "Saghe",
+					"description": "/FILM/description_film.json"
+				},
+				"prize": {
+					"title": "Oscar",
+					"description": "/FILM/description_oscar.json"
+				}
+			}
+		},
+		{
+			"title": "Serie TV",
+			"link": "/SERIE-TV/serietv.json",
+			"thumbnail": "/Immagini/SerieTV.jpg",
+			"level2": {
+				"search": "",
+				"genre": "Genere",
+				"actors": "Attori",
+				"director": "Regista",
+				"year": "Anno",
+				"saga": {
+					"title": "Saghe",
+					"description": "/SERIE-TV/description.json"
+				}
+			}
+		},
+		{
+			"title": "Animazione - Anime",
+			"link": "/ANIMAZIONE/animazione.json",
+			"thumbnail": "/Immagini/animazione.jpg"
+		},
+		{
+			"title": "Documentari",
+			"link": "/DOCUMENTARI/documentari.json",
+			"thumbnail": "/Immagini/DOCUMENTARI.jpg",
+			"level2": {
+				"search": "",
+				"year": "Anno",
+				"persone": {
+					"title": "Personaggi",
+					"description": "/DOCUMENTARI/description_pers.json"
+				},
+				"casa": {
+					"title": "Saghe",
+					"description": "/DOCUMENTARI/description_saghe.json"
+				}
+			}
+		},
+		{
+			"title": "Teatro",
+			"link": "/TEATRO/teatro.json",
+			"thumbnail": "/Immagini/Teatro.png",
+			"level2": {
+				"search": "",
+				"year": "Anno",
+				"actors": {
+					"title": "Attori",
+					"description": "/TEATRO/description.json"
+				}
+			}
+		},
+		{
+			"title": "Il Baule dell'Ingordo",
+			"link": "/baule/Il_Baule_dell_ingordo.json",
+			"thumbnail": "/Immagini/Baule.jpg"
+		},	
+		{
+      			"title": "Appena aggiunti",    
+      			"link": "http://51.77.159.233/ingordichannel.json",
+      			"thumbnail": "/Immagini/Prove.png"	
+		},	
+		{
+			"title": "",
+			"link": "",
+			"thumbnail": "/Immagini/Vuto.png"
+		}
+	]
 }
