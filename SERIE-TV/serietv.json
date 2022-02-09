@@ -124,7 +124,7 @@
             "saga": "Buck Rogers",
             "year": "1979",
             "tmdb_id": "2443",
-            "genre": ["Sci-Fi & Fantasy"],
+            "genre": ["Fantascienza e Fantasia"],
             "url": "/SERIE-TV/serie/buck_list.json"
         },
         {
@@ -416,13 +416,13 @@
             "url": "/SERIE-TV/serie/pixar_list.json"
         },
         {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre": [""],
-            "url": "/SERIE-TV/serie/_list.json"
+            "plot": "Presunto morto, Danny Rand ritorna nella sua citt\u00e0 dopo 15 anni. Ora, con il potere del Pugno d'acciaio, \u00e8 pronto a rivendicare il passato e a seguire il proprio destino.",
+            "title": "Marvel's Iron Fist",
+            "saga": "Marvel's Iron Fist",
+            "year": "2017",
+            "tmdb_id": "62127",
+            "genre": ["Azione e Avventura", "Drammatico", "Fantascienza e Fantasia"],
+            "url": "/SERIE-TV/serie/fist_list.json"
         },
         {
             "plot": "",
@@ -592,7 +592,7 @@
             "saga": "Heroes Reborn",
             "year": "2015",
             "tmdb_id": "60858",
-            "genre": ["Sci-Fi & Fantasy"],
+            "genre": ["Fantascienza e Fantasia"],
             "url": "/SERIE-TV/serie/reborn_list.json"
         },
         {
@@ -601,7 +601,7 @@
             "saga": "Heroes",
             "year": "2006",
             "tmdb_id": "1639",
-            "genre": ["Sci-Fi & Fantasy","Drammatico"],
+            "genre": ["Fantascienza e Fantasia","Drammatico"],
             "url": "/SERIE-TV/serie/heroes_list.json"
         },
         {
@@ -664,7 +664,7 @@
             "saga": "Once Upon a Time",
             "year": "2011",
             "tmdb_id": "39272",
-            "genre": ["Drammatico","Sci-Fi & Fantasy"],
+            "genre": ["Drammatico","Fantascienza e Fantasia"],
             "url": "/SERIE-TV/serie/once_list.json"
         },
         {
@@ -673,7 +673,7 @@
             "saga": "Person of Interest",
             "year": "2011",
             "tmdb_id": "1411",
-            "genre": ["Drammatico","Azione e Avventura","Crimine","Sci-Fi & Fantasy"],
+            "genre": ["Drammatico","Azione e Avventura","Crimine","Fantascienza e Fantasia"],
             "url": "/SERIE-TV/serie/person_list.json"
         },
         {
@@ -727,7 +727,7 @@
             "saga": "Stranger Things",
             "year": "2016",
             "tmdb_id": "66732",
-            "genre": ["Mistero","Sci-Fi & Fantasy","Drammatico"],
+            "genre": ["Mistero","Fantascienza e Fantasia","Drammatico"],
             "url": "/SERIE-TV/serie/st_list.json"
         },
         {
@@ -736,7 +736,7 @@
             "saga": "The Boys",
             "year": "2019",
             "tmdb_id": "76479",
-            "genre": ["Sci-Fi & Fantasy","Azione e Avventura"],
+            "genre": ["Fantascienza e Fantasia","Azione e Avventura"],
             "url": "/SERIE-TV/serie/boys_list.json"
         },
         {
@@ -754,7 +754,7 @@
             "saga": "The Walking Dead",
             "year": "2010",
             "tmdb_id": "1402",
-            "genre": ["Azione e Avventura","Drammatico","Sci-Fi & Fantasy"],
+            "genre": ["Azione e Avventura","Drammatico","Fantascienza e Fantasia"],
             "url": "/SERIE-TV/serie/twd_list.json"
         },
         {
@@ -781,7 +781,7 @@
             "saga": "Warrior Nun",
             "year": "2020",
             "tmdb_id": "87689",
-            "genre": ["Azione e Avventura","Drammatico","Sci-Fi & Fantasy"],
+            "genre": ["Azione e Avventura","Drammatico","Fantascienza e Fantasia"],
             "url": "/SERIE-TV/serie/nun_list.json"
         }
     ]
