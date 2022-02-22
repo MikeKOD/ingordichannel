@@ -426,12 +426,12 @@
         },
         {
             "plot": "",
-            "title": "",
+            "title": "Sex and the City",
             "saga": "",
             "year": "",
-            "tmdb_id": "",
+            "tmdb_id": "105",
             "genre": [""],
-            "url": "/SERIE-TV/serie/_list.json"
+            "url": "/SERIE-TV/serie/city_list.json"
         },
         {
             "plot": "",
