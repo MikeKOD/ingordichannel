@@ -3606,6 +3606,44 @@
             ]
         },
         {
+            "file_id": "a6bf0acc94bfa518f7cce9e6af3d8f9b",
+            "tmdb_id": 1416,
+            "saga": "Grey's anatomy",
+            "season": 18,
+            "episode": 19,
+            "genre": ["Dramma"],
+            "title": "Out for Blood",
+            "fname": "/SerieTV/Grey's anatomy (2005) [a1416]/18.019 - Out for Blood.mkv",
+            "year": "2005",
+            "plot": "Meredith Grey \u00e8 una giovane ragazza di Boston che, dopo la laurea in medicina, riesce ad entrare nel gruppo di tirocinanti di chirurgia del Seattle Grace Hospital. Si trasferisce cos\u00ec a Seattle, nella vecchia casa appartenuta alla madre. Qui si ritrova a condividere questa nuova esperienza insieme ad un gruppo di giovani coetanei, tutti alle prese con i pi\u00f9 svariati problemi. Meredith \u00e8 figlia di Ellis Grey, una famosa dottoressa specialista in chirurgia generale, e sente molto il peso del suo cognome. La sera prima di iniziare il tirocinio, Meredith incontra in un pub Derek, un affascinante uomo con cui passa la notte; solo il giorno dopo scopre che in realt\u00e0 lui \u00e8 Derek Shepherd, neurochirurgo dell'ospedale, nonch\u00e9 suo supervisore. Meredith deve cos\u00ec districarsi tra lo studio e il lavoro per poter diventare un chirurgo, e i sentimenti che prova per Derek.",
+            "actors": ["Ellen Pompeo", "James Pickens Jr.", "Chandra Wilson", "Kevin McKidd", "Camilla Luddington", "Kim Raver", "Chris Carmack", "Jake Borelli", "Anthony Hill", "Scott Speedman", "Richard Flood", "Caterina Scorsone", "Kelly McCreary"],
+            "poster": "/zPIug5giU8oug6Xes5K1sTfQJxY.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a6bf0acc94bfa518f7cce9e6af3d8f9b"
+                }
+            ]
+        },
+        {
+            "file_id": "19acb89f906febceec9b44f38c7fce98",
+            "tmdb_id": 1416,
+            "saga": "Grey's anatomy",
+            "season": 18,
+            "episode": 20,
+            "genre": ["Dramma"],
+            "title": "You Are the Blood",
+            "fname": "/SerieTV/Grey's anatomy (2005) [a1416]/18.020 - You Are the Blood.mkv",
+            "year": "2005",
+            "plot": "Meredith Grey \u00e8 una giovane ragazza di Boston che, dopo la laurea in medicina, riesce ad entrare nel gruppo di tirocinanti di chirurgia del Seattle Grace Hospital. Si trasferisce cos\u00ec a Seattle, nella vecchia casa appartenuta alla madre. Qui si ritrova a condividere questa nuova esperienza insieme ad un gruppo di giovani coetanei, tutti alle prese con i pi\u00f9 svariati problemi. Meredith \u00e8 figlia di Ellis Grey, una famosa dottoressa specialista in chirurgia generale, e sente molto il peso del suo cognome. La sera prima di iniziare il tirocinio, Meredith incontra in un pub Derek, un affascinante uomo con cui passa la notte; solo il giorno dopo scopre che in realt\u00e0 lui \u00e8 Derek Shepherd, neurochirurgo dell'ospedale, nonch\u00e9 suo supervisore. Meredith deve cos\u00ec districarsi tra lo studio e il lavoro per poter diventare un chirurgo, e i sentimenti che prova per Derek.",
+            "actors": ["Ellen Pompeo", "James Pickens Jr.", "Chandra Wilson", "Kevin McKidd", "Camilla Luddington", "Kim Raver", "Chris Carmack", "Jake Borelli", "Anthony Hill", "Scott Speedman", "Richard Flood", "Caterina Scorsone", "Kelly McCreary"],
+            "poster": "/zPIug5giU8oug6Xes5K1sTfQJxY.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/19acb89f906febceec9b44f38c7fce98"
+                }
+            ]
+        },
+        {
             "file_id": "f263d2b98f795d2e0acdebd498928702",
             "tmdb_id": 1416,
             "saga": "Grey's anatomy",
