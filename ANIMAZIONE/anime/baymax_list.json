@@ -1,0 +1,112 @@
+{
+    "episodes_list": [
+        {
+            "file_id": "26c38557cbc4ec3a9b41b94682ba2cf5",
+            "tmdb_id": 114466,
+            "saga": "Baymax!",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Animazione", "Action & Adventure", "Commedia", "Kids"],
+            "title": "Kiko",
+            "fname": "/Anime & Cartoni/Baymax! (2022) [a114466]/1.01 - Kiko.mkv",
+            "year": "2022",
+            "actors": ["Scott Adsit", "Ryan Potter"],
+            "poster": "/8Bn9oSoP9wi6TA07iS4Z7OEUqqy.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/26c38557cbc4ec3a9b41b94682ba2cf5"
+                }
+            ]
+        },
+        {
+            "file_id": "362ae50790d97bf1abd4b467a97382d5",
+            "tmdb_id": 114466,
+            "saga": "Baymax!",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Animazione", "Action & Adventure", "Commedia", "Kids"],
+            "title": "Cass",
+            "fname": "/Anime & Cartoni/Baymax! (2022) [a114466]/1.02 - Cass.mkv",
+            "year": "2022",
+            "actors": ["Scott Adsit", "Ryan Potter"],
+            "poster": "/8Bn9oSoP9wi6TA07iS4Z7OEUqqy.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/362ae50790d97bf1abd4b467a97382d5"
+                }
+            ]
+        },
+        {
+            "file_id": "79d6e23d21f465e04a9fe85e900f4c94",
+            "tmdb_id": 114466,
+            "saga": "Baymax!",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione", "Action & Adventure", "Commedia", "Kids"],
+            "title": "Sofia",
+            "fname": "/Anime & Cartoni/Baymax! (2022) [a114466]/1.03 - Sofia.mkv",
+            "year": "2022",
+            "actors": ["Scott Adsit", "Ryan Potter"],
+            "poster": "/8Bn9oSoP9wi6TA07iS4Z7OEUqqy.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/79d6e23d21f465e04a9fe85e900f4c94"
+                }
+            ]
+        },
+        {
+            "file_id": "c3f36f2b208b197d2f86b238eee07ef0",
+            "tmdb_id": 114466,
+            "saga": "Baymax!",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione", "Action & Adventure", "Commedia", "Kids"],
+            "title": "Mbita",
+            "fname": "/Anime & Cartoni/Baymax! (2022) [a114466]/1.04 - Mbita.mkv",
+            "year": "2022",
+            "actors": ["Scott Adsit", "Ryan Potter"],
+            "poster": "/8Bn9oSoP9wi6TA07iS4Z7OEUqqy.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c3f36f2b208b197d2f86b238eee07ef0"
+                }
+            ]
+        },
+        {
+            "file_id": "2da37fcececfd5291f5631bdbe0b1443",
+            "tmdb_id": 114466,
+            "saga": "Baymax!",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Animazione", "Action & Adventure", "Commedia", "Kids"],
+            "title": "Yachi",
+            "fname": "/Anime & Cartoni/Baymax! (2022) [a114466]/1.05 - Yachi.mkv",
+            "year": "2022",
+            "actors": ["Scott Adsit", "Ryan Potter"],
+            "poster": "/8Bn9oSoP9wi6TA07iS4Z7OEUqqy.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2da37fcececfd5291f5631bdbe0b1443"
+                }
+            ]
+        },
+        {
+            "file_id": "919f5a9e40b3c875b5550b2af48fa46f",
+            "tmdb_id": 114466,
+            "saga": "Baymax!",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione", "Action & Adventure", "Commedia", "Kids"],
+            "title": "Baymax",
+            "fname": "/Anime & Cartoni/Baymax! (2022) [a114466]/1.06 - Baymax.mkv",
+            "year": "2022",
+            "actors": ["Scott Adsit", "Ryan Potter"],
+            "poster": "/8Bn9oSoP9wi6TA07iS4Z7OEUqqy.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/919f5a9e40b3c875b5550b2af48fa46f"
+                }
+            ]
+        }
+    ]
+}

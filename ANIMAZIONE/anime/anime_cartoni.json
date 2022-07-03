@@ -309,13 +309,13 @@
             "url": "/ANIMAZIONE/anime/arte_list.json"
         },
         {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre": [""],
-            "url": "/ANIMAZIONE/anime/101_list.json"
+            "plot": "Ritorna nella fantastica citt\u00e0 di San Fransokyo dove l'affabile, gonfiabile e inimitabile robot compagno di assistenza sanitaria, Baymax, si propone di fare ci\u00f2 per cui \u00e8 stato programmato: aiutare gli altri.",
+            "title": "Baymax!",
+            "saga": "Baymax!",
+            "year": "2022",
+            "tmdb_id": "114466",
+            "genre": ["Animazione", "Action & Adventure", "Commedia", "Kids"],
+            "url": "/ANIMAZIONE/anime/baymax_list.json"
         },
         {
             "plot": "",
