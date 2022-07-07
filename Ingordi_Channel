@@ -92,11 +92,11 @@
       			"title": "Appena aggiunti",    
       			"link": "http://51.77.159.233/ingordichannel.json",
       			"thumbnail": "/Immagini/Prove.png"	
-		}},	
+		},	
 		{
       			"title": "prova",    
       			"link": "/prova.json",
-      			"thumbnail": "/Immagini/Prove.png"	
+      			"thumbnail": ""	
 		},	
 		{
 			"title": "",
