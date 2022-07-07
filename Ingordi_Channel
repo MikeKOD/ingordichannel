@@ -34,7 +34,7 @@
 		},
 		{
 			"title": "Serie TV",
-			"link": "/SERIE-TV/serietv.json",
+			"link": "/serietv.json",
 			"thumbnail": "/Immagini/SerieTV.jpg",
 			"level2": {
 				"search": "",
