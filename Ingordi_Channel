@@ -37,11 +37,11 @@
 			"link": "/serietv.json",
 			"thumbnail": "/Immagini/SerieTV.jpg",
 			"level2": {
-				"search": "",
 				"genre": "Genere",
 				"actors": "Attori",
 				"year": "Anno",
-				"saga": "Saghe"
+				"saga": "Saghe",
+				"search": ""
 			}
 		},
 		{
