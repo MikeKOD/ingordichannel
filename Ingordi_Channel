@@ -25,10 +25,6 @@
 				"saga": {
 					"title": "Saghe",
 					"description": "/FILM/description_film.json"
-				},
-				"prize": {
-					"title": "Oscar",
-					"description": "/FILM/description_oscar.json"
 				}
 			}
 		},
