@@ -367,7 +367,7 @@
             "saga": "How I Met Your Mother",
             "year": "2005",
             "tmdb_id": "1100",
-            "genre": ["Commedian"],
+            "genre": ["Commedia"],
             "url": "/SERIE-TV/serie/hmym_list.json"
         },
         {
@@ -425,22 +425,22 @@
             "url": "/SERIE-TV/serie/fist_list.json"
         },
         {
-            "plot": "",
+            "plot": "Sex and the City è una serie televisiva americana che descrive le vicissitudini \"romantiche\" di un gruppo di quattro donne, tre trentenni e una quarantenne, che si confidano l'un l'altra le rispettive vite sessuali, condite con le scabrosità del tempo, dalle malattie sessuali alla morale sessuale promiscua e femminista, mentre esplorano le differenze tra amicizia, relazioni sessuali e (talvolta) romantiche e amore.",
             "title": "Sex and the City",
-            "saga": "",
-            "year": "",
+            "saga": "Sex and the City",
+            "year": "1998",
             "tmdb_id": "105",
-            "genre": [""],
+            "genre": ["Commedia"],
             "url": "/SERIE-TV/serie/city_list.json"
         },
         {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre": [""],
-            "url": "/SERIE-TV/serie/_list.json"
+            "plot": "I Kyle sono una tipica famiglia afroamericana di reddito medio-alto composta da genitori e tre figli. I rapporti tra loro sono spesso conflittuali, in particolare per via dei tentativi dei due genitori di stabilire un costante controllo sui loro figli, che spesso sfocia nell'invadenza della loro vita privata. Michael Kyle, il capofamiglia, che spesso si rivela una persona immatura ed egoista, deve anche gestire i comportamenti di sua moglie Janet, gelosa, preoccupata dal suo aspetto fisico e spesso intrattabile, di suo figlio Junior, decisamente imbranato e sempre messo alla prova dal padre, di sua figlia Claire, una bella e vanitosa sedicenne, e della più piccola della casa, Kady, già capace di creare problemi nonostante la tenera età.",
+            "title": "Tutto in famiglia",
+            "saga": "Tutto in famiglia",
+            "year": "2001",
+            "tmdb_id": "2692",
+            "genre": ["Commedia", "Famiglia"],
+            "url": "/SERIE-TV/serie/tutto_list.json"
         },
         {
             "plot": "",
