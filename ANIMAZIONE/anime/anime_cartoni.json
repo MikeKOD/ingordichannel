@@ -318,13 +318,13 @@
             "url": "/ANIMAZIONE/anime/baymax_list.json"
         },
         {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre": [""],
-            "url": "/ANIMAZIONE/anime/101_list.json"
+            "plot": "Mentre il campione di arti marziali Baki Hanma segue duri allenamenti per superare il leggendario padre, cinque violenti condannati a morte arrivano a Tokyo per sfidarlo.",
+            "title": "BAKI",
+            "saga": "BAKI",
+            "year": "2018",
+            "tmdb_id": "80623",
+            "genre": ["Animazione", "Azione e Avventura", "Crimine", "Dramma"],
+            "url": "/ANIMAZIONE/anime/baki_list.json"
         },
         {
             "plot": "",
