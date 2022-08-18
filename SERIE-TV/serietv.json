@@ -1,12 +1,13 @@
 
 {
+    "sort":true,
     "tvshows_list": [
         {
             "plot": "Una giovane insegnante di un liceo americano inizia una storia segreta con uno dei suoi studenti. Quando la situazione viene a galla nessuno dei due immagina quanti problemi e conseguenze causer\u00e0 la loro relazione illecita, coinvolgendo le persone che li circondano, n\u00e9 quanto complessa e intricata possa diventare la loro vita dal quel momento in poi.",
             "title": "A Teacher: Una storia sbagliata",
             "saga": "A Teacher: Una storia sbagliata",
             "year": "2021",
-            "tmdb_id": "A Teacher: Una storia sbagliata",
+            "tmdb_id": "AA Teacher: Una storia sbagliata",
             "genre": ["Drammatico"],
             "url": "/SERIE-TV/serie/teacher_list.json"
         },
