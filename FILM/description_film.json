@@ -144,9 +144,9 @@
       "fanart": "/FILM/Immagini/narnia_fanart.jpg",
       "thumbnail": "/FILM/Immagini/narnia.jpg"
   },
-  "":{
-      "plot": "",
-      "fanart": "/FILM/Immagini/_fanart.jpg",
-      "thumbnail": "/FILM/Immagini/.jpg"
+  "Alien":{
+      "plot": "La saga di Alien è ambientata tra il ventunesimo e ventiquattresimo secolo. La protagonista Ellen Ripley è coinvolta in uno scontro con l'azienda immaginaria Weyland-Yutani, che intende trasportare esemplari d'una razza aliena ostile detta Xenomorfo sulla Terra. La serie prequel segue gli intrighi dell'androide David 8, e mostra la genesi dell'umanità grazie agli Ingegneri e l'origine degli Xenomorfi.",
+      "fanart": "/FILM/Immagini/alien_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/alien.jpg"
   }
 }
