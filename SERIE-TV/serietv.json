@@ -1,11 +1,13 @@
+
 {
+    "sort":true,
     "tvshows_list": [
         {
             "plot": "Una giovane insegnante di un liceo americano inizia una storia segreta con uno dei suoi studenti. Quando la situazione viene a galla nessuno dei due immagina quanti problemi e conseguenze causer\u00e0 la loro relazione illecita, coinvolgendo le persone che li circondano, n\u00e9 quanto complessa e intricata possa diventare la loro vita dal quel momento in poi.",
             "title": "A Teacher: Una storia sbagliata",
             "saga": "A Teacher: Una storia sbagliata",
             "year": "2021",
-            "tmdb_id": "A Teacher: Una storia sbagliata",
+            "tmdb_id": "AA Teacher: Una storia sbagliata",
             "genre": ["Drammatico"],
             "url": "/SERIE-TV/serie/teacher_list.json"
         },
@@ -440,42 +442,6 @@
             "tmdb_id": "2692",
             "genre": ["Commedia", "Famiglia"],
             "url": "/SERIE-TV/serie/tutto_list.json"
-        },
-        {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre": [""],
-            "url": "/SERIE-TV/serie/_list.json"
-        },
-        {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre": [""],
-            "url": "/SERIE-TV/serie/_list.json"
-        },
-        {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre": [""],
-            "url": "/SERIE-TV/serie/_list.json"
-        },
-        {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre": [""],
-            "url": "/SERIE-TV/serie/_list.json"
         },
         {
             "plot": "Sei anni prima che Saul Goodman conosca Walter White. Incontreremo l'uomo che sar\u00e0 conosciuto come Saul Goodman, quando era ancora noto col nome di Jimmy McGill, un avvocato da poco, alla ricerca del suo destino, e che, al momento, cerca di arrivare a fine mese. Lavorando fianco a fianco e, spesso, contro Jimmy McGill, c'\u00e8 il \"tuttofare\" Mike Erhmantraut.",
